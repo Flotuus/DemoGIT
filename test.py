@@ -1,4 +1,4 @@
 def hello():
-	print("bonjour !");
+	print("bonjour ! ça va ?");
 
 hello();
